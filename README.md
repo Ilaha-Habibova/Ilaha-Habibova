@@ -10,12 +10,12 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_microsoft_excel.svg" alt="Excel" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Tableau_Software_Logo.svg" alt="Tableau" width="80" height="40"/>  
+  <img src="https://seeklogo.com/images/P/power-bi-logo-4F7686A8E1-seeklogo.com.png" alt="Power BI" width="60" height="40"/>  
 </p>
