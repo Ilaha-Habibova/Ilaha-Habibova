@@ -9,4 +9,6 @@
 
 - 📫 How to reach me **ilaha.github@gmail.com**
 
+<h3 align="left">Languages and Tools:</h3>
+Python,Excel,SQL,Tableau,Power BI
 
